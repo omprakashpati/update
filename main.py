@@ -1,4 +1,4 @@
-pip instal torch
+pip install torch
 import torch
 from torchvision import models, transforms
 from PIL import Image
